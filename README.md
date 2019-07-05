@@ -13,7 +13,7 @@ Download this repository as a .zip and unpack it.
 
 
 #### Build (warning, lengthy step)
-Change to the RamifyCoq folder and then run either  `make vstandme7`  or  `make vstandme3`, depending on whether you would like to dedicate 7 or 3 cores to this task. You will see two warnings at the very top, but these can be safely ignored. The rest of the script will be a series of  “COQC filename” commands. You will see three ignorable warnings from VST when building the file “veric/mpred.v”.
+Change to the RamifyCoq folder (`cd RamifyCoq/`) and then run either  `make vstandme7`  or  `make vstandme3`, depending on whether you would like to dedicate 7 or 3 cores to this task. You will see two warnings at the very top, but these can be safely ignored. The rest of the script will be a series of  “COQC filename” commands. You will see three ignorable warnings from VST when building the file “veric/mpred.v”.
 
 
 #### Try it out!
