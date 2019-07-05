@@ -52,7 +52,7 @@ HIP_FILES = \
 CERTIGC_FILES = \
   gc.v data_at_test.v spatial_gcgraph.v verif_conversion.v\
   gc_spec.v verif_create_space.v verif_create_heap.v verif_make_tinfo.v env_graph_gc.v verif_Is_block.v verif_garbage_collect.v verif_resume.v \
-  GCGraph.v verif_forward.v verif_do_scan.v verif_forward_roots.v verif_do_generation.v gc_correct.v stuck.v
+  GCGraph.v verif_forward.v verif_do_scan.v verif_forward_roots.v verif_do_generation.v gc_correct.v
 
 CLIGHT_FILES = sample_mark/mark_bi.v sample_mark/dispose_bi.v
 
