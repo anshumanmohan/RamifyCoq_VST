@@ -1,7 +1,7 @@
 This readme is organized into two parts: an overview for setting up the system on your computer and a deeper dive for navigating different parts of the build thereafter. We provide a command-line-only Docker machine containing a functional, compiled, and Coq-checked installation of our system, so this setup is skippable if you are only mildly curious. However, if you want to actually step through the proofs in detail, we do recommend downloading and building our system on your machine and then using a more graphic explorer such as ProofGeneral in Emacs. We explain this setup here. 
 
 ## Overview
-This repository simply contains the latest version of RamifyCoq (commit 97572a) and VST (commit cb633f) thrown together into one directory. Having these directories as siblings with these names is not essential, but it simplifies things ever so slightly and allows a one-commmand build.
+This repository simply contains the latest version of RamifyCoq (commit 97572a) and VST (commit cb633f) thrown together into one directory. Having these directories as siblings with these names is not essential, but it simplifies things ever so slightly and allows a one-command build.
 
 
 #### Prerequisite
